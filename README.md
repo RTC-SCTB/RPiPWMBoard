@@ -9,8 +9,10 @@
 [Raspberry Pi HAT](https://www.raspberrypi.org/blog/introducing-raspberry-pi-hats/), 
 однако данная технология пока не используется.
 
-Необходимые нестандартные библиотеки - в папке libraries.  
-Список изменений - в файле `Changes.md`.
+## Содержание
+- Необходимые нестандартные библиотеки - в папке `Libraries`  
+- Список изменений - в файле `Changes.md`
+- Gerber файлы - в папке `Gerbers`
 
 ## Функции
 
